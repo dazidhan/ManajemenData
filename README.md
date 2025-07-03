@@ -105,7 +105,7 @@
 ### Project Index
 
 <details open>
-	<summary><b><code>Mahasiswa-Guestbook-App Index</code></b></summary>
+	<summary><b><code>Sistem Pencatatan Data Mahasiswa Index</code></b></summary>
 	<details> <!-- __root__ Submodule -->
 		<summary><b>__root__</b></summary>
 		<blockquote>
