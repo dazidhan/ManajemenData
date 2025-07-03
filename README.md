@@ -32,7 +32,7 @@
 2. [Features](#features)
 3. [Project Structure](#project-structure)
   3.1. [Project Index](#project-index)
-4. [Collaborators](#collaborators)
+4. [Collaborators](#-collaborators)
    
 ---
 
